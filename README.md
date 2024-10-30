@@ -1,5 +1,4 @@
-<img src="Laplace.png" alt="Laplace Immo" width="300" height="300">
-
+<img src="Laplace.png" alt="Laplace Immo" width="300" height="500">
 
 
 # PROJET BIG DATA ET CLOUD COMPUTING
