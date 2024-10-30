@@ -4,6 +4,8 @@
 # PROJET BIG DATA ET CLOUD COMPUTING
 # CREATION  D’UNE BASE DE DONNÉES IMMOBILIÈRE POUR LA SOCIETE IMMO LAPLACE 
 Projet réalisé par **Fallou NGOM** , **Cheikna Amala YATABARE** , **Ousseynou DIOP** , **Mamadou Lamine NDAO**, **Papa Abdourahmane CISSE**
+
+
 *Elèves ingénieurs statisticiens économistes en deuxieme année (ISE2- ENSAE)*
 
 ## Objectif du Projet  
@@ -41,4 +43,4 @@ Les notes de présentation jointes à ce projet visent à :
 ## Technologies & Logiciels utilisés
 * Excel 
 * MySQL / MySQL Workbench / adminer.php
-* HTML/ CSS/ JavaScript
+* HTML/ CSS/ JavaScript/PHP
