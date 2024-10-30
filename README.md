@@ -37,7 +37,7 @@ Les notes de présentation jointes à ce projet visent à :
 * Charger des données dans la base
 * Construire des requêtes SQL pour répondre à des besoins métier
 
-## Technologies & Logicielsutilisé
+## Technologies & Logiciels utilisés
 * Excel 
 * MySQL / MySQL Workbench / adminer.php
 * HTML/ CSS/ JavaScript
