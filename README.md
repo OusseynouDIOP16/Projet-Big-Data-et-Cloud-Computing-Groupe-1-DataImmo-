@@ -1,4 +1,4 @@
-<img src="Laplace.png" alt="Laplace Immo" width="500" height="300">
+<img src="Laplace.png" alt="Laplace Immo" width="300" height="300">
 
 
 
