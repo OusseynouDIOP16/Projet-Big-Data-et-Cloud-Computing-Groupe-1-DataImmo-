@@ -1,5 +1,5 @@
 <?php
-// Informations de connexion à la base de données
+// Informations de connexion à la base de données RDS (AWS)
 $URL = "database-1.cfgaa6gqqsvm.eu-west-3.rds.amazonaws.com";
 $NOM = "admin";
 $Mot_de_passe = "loufpass";
