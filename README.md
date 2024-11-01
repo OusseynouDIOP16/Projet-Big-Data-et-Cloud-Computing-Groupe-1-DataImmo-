@@ -8,6 +8,9 @@ Projet réalisé par **Fallou NGOM** , **Cheikna Amala YATABARE** , **Ousseynou 
 
 *Elèves ingénieurs statisticiens économistes en deuxieme année (ISE2- ENSAE)*
 
+*Supervivé par* : **Mme Mously DIAW, Lead ML Engineer | Experte IA & MLOps | Founder @SenIA | Formatrice | Partage d'insights sur la Data, le Machine Learning, le MLOps et les innovations IA**
+
+
 ## Objectif du Projet  
 Le but de ce projet est de créer une base de données immobilière en intégrant des données publiques françaises provenant de plusieurs sources, telles que le fichier des demandes de valeurs foncières, le référentiel géographique des régions, et les données de recensement de l’INSEE. Ces fichiers, accessibles librement sur différents sites gouvernementaux, sont volumineux et comportent de nombreux champs. Un choix précis des données à inclure a été effectué (consultez le dossier « données brutes » pour les fichiers sources et le dictionnaire des données pour la liste des colonnes intégrées dans la base).
 Les notes de présentation jointes à ce projet visent à :
